@@ -1,0 +1,13 @@
+12.1 PROJECT OBJECTIVE
+
+The objective of this project is to develop a MATLAB-based Vehicle Speed
+Monitoring System that monitors vehicle speed, detects overspeed conditions,
+classifies speed severity into Normal, Warning, and Critical levels, calculates
+speed statistics, visualizes speed data, simulates real-time monitoring, and
+logs monitoring results into a CSV file.
+
+
+12.2 PROBLEM STATEMENT
+
+Vehicle overspeeding is a major safety concern that can increase the risk of road accidents. Monitoring vehicle speed manually can be difficult and may not provide immediate information about dangerous speed conditions. Therefore, there is a need for a system that can automatically monitor vehicle speed and identify whether the vehicle is operating within the permitted speed limit. This project develops a MATLAB-based Vehicle Speed Monitoring System that detects overspeed conditions, classifies them into Warning and Critical levels, calculates speed statistics, visualizes speed data, simulates real-time monitoring, and stores the monitoring results in a CSV file for further analysis.
+
