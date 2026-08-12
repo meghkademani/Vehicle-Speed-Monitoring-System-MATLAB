@@ -27,12 +27,6 @@ The calculated speed is compared with the defined speed limit.
 If the vehicle exceeds the limit, the system identifies an
 overspeed condition.
 
-## ▶️ How to Run
-
-1. Clone this repository.
-2. Open the project in MATLAB.
-3. Add the `functions` folder to the MATLAB path.
-4. Run `main.m`.
 
 ## 🚀 Future Improvements
 
@@ -42,8 +36,6 @@ overspeed condition.
 - Real-time dashboard
 - Automatic warning system
 
-## 👨‍💻 Author
+## Project Update
 
-**Megh Kademani**
-
-Electronics & Communication Engineering Student
+Improved documentation and project information for the Vehicle Speed Monitoring System.
