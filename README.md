@@ -403,3 +403,10 @@ The current version successfully demonstrates vehicle speed monitoring, overspee
 ## 📜 License
 
 This project is intended for **educational and academic purposes**.
+
+## Future Improvements
+
+- Add automatic speed-limit alerts.
+- Improve real-time vehicle detection.
+- Add graphical analysis of vehicle speed data.
+- Extend the system for multiple speed zones.
