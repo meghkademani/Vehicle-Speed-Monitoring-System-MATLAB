@@ -267,6 +267,26 @@ Time_Seconds,Speed_km_h,Status
 
 ---
 
+## 📋 Requirements
+
+Before running the project, make sure the following are available:
+
+- MATLAB R2025b or compatible MATLAB version
+- MATLAB scripts and user-defined functions
+- A system capable of running MATLAB graphics
+- Write permission for generating the CSV log file
+
+### Required Project Files
+
+The following files are required for the complete system:
+
+- `main.m`
+- `functions/monitorSpeed.m`
+- `functions/calculateStatistics.m`
+- `functions/saveSpeedLog.m`
+
+The project does not require any external MATLAB toolbox beyond standard MATLAB functionality.
+
 ## ▶️ How to Run
 
 ### 1. Clone the repository
